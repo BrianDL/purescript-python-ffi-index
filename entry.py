@@ -30,6 +30,10 @@ _repo_url_link_map = {
     "datetime": r"https://github.com/purescript-python/purescript-datetime.py",
     "foreign-object": r"https://github.com/purescript-python/purescript-foreign-object.py",
     "foreign": r"https://github.com/purescript-python/purescript-foreign.py",
+    "web-dom": r"https://github.com/purescript-python/purescript-web-dom.py",
+    "web-events": r"https://github.com/purescript-python/purescript-web-events.py",
+    "web-file": r"https://github.com/purescript-python/purescript-web-file.py",
+    "web-xhr": r"https://github.com/purescript-python/purescript-web-xhr.py",
 }
 
 
