@@ -26,6 +26,10 @@ _repo_url_link_map = {
     "random": r"https://github.com/purescript-python/purescript-random.py",
     "quickcheck": r"https://github.com/purescript-python/purescript-quickcheck.py",
     "record": r"https://github.com/purescript-python/purescript-record.py",
+    "argonaut-core": r"https://github.com/purescript-python/purescript-argonaut-core.py",
+    "datetime": r"https://github.com/purescript-python/purescript-datetime.py",
+    "foreign-object": r"https://github.com/purescript-python/purescript-foreign-object.py",
+    "foreign": r"https://github.com/purescript-python/purescript-foreign.py",
 }
 
 
