@@ -36,6 +36,7 @@ _repo_url_link_map = {
     "web-xhr": r"https://github.com/purescript-python/purescript-web-xhr.py",
     "affjax": r"https://github.com/purescript-python/purescript-affjax.py",
     "now": r"https://github.com/purescript-python/purescript-now.py",
+    "aff": r"https://github.com/purescript-python/purescript-aff.py",
 }
 
 
