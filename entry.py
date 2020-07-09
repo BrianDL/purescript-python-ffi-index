@@ -37,7 +37,8 @@ _repo_url_link_map = {
     "affjax": r"https://github.com/purescript-python/purescript-affjax.py",
     "now": r"https://github.com/purescript-python/purescript-now.py",
     "aff": r"https://github.com/purescript-python/purescript-aff.py",
-    "avar": r"https://github.com/purescript-python/purescript-avar.py.git",
+    "avar": r"https://github.com/purescript-python/purescript-avar.py",
+    "spec": r"https://github.com/purescript-python/purescript-spec.py",
 }
 
 
