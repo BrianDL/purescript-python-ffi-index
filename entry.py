@@ -27,7 +27,7 @@ _repo_url_link_map = {
     "quickcheck": r"https://github.com/purescript-python/purescript-quickcheck.py",
     "record": r"https://github.com/purescript-python/purescript-record.py",
     "aff": r"https://github.com/purescript-python/purescript-aff.py",
-    "foreign": r"https://github.com/purescript-python/purescript-foreign-object.py",
+    "foreign-object": r"https://github.com/purescript-python/purescript-foreign-object.py",
 }
 
 
